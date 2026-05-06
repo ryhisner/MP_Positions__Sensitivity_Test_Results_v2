@@ -6,10 +6,15 @@ These files are the same as the ones in the MP_Positions__Main_Results repositor
 #2. Have a minimum of 10 private amino acid substitutions/deletion ranges
 
 
+
+
 For Sensitivity_Test_Results_v1, the requirements are:
 
 #1. Have a minimum of 10 private amino acid amino acid substitutions/deletion ranges (where each private deletion range, no matter how large or small, counts as a single mutation) and be among the last 5% of sequences collected in the Pango lineage to which it belongs. 
+
 #2. Have a minimum of 15 private amino acid substitutions/deletion ranges
+
+
 
 
 For Sensitivity_Test_Results_v2, the requirements are:
