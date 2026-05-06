@@ -6,7 +6,7 @@ These files are the same as the ones in the MP_Positions__Main_Results repositor
 #2. Have a minimum of 10 private amino acid substitutions/deletion ranges
 
 
-
+____________________________________________________________________________________________________________________________________
 
 For Sensitivity_Test_Results_v1, the requirements are:
 
@@ -15,7 +15,7 @@ For Sensitivity_Test_Results_v1, the requirements are:
 #2. Have a minimum of 15 private amino acid substitutions/deletion ranges
 
 
-
+____________________________________________________________________________________________________________________________________
 
 For Sensitivity_Test_Results_v2, the requirements are:
 
